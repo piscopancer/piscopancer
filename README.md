@@ -14,12 +14,12 @@ Russia
 ```
 ## Languages
 ```
-- C# (Unity)
-- JavaScript + TypeScript
+C# (Unity)
+JavaScript + TypeScript
 ```
 ## Technology stack
 ```
-- react
-- redux-toolkit
-- framer-motion
+react
+redux-toolkit
+framer-motion
 ```
