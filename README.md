@@ -1,5 +1,5 @@
 # React developer
-![mads](/mads.gif)
+![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
 ```
 Igor Bistritsky | Игорь Быстрицкий
