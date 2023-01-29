@@ -10,7 +10,7 @@ Igor Bistritsky | Игорь Быстрицкий
 ```
 ## Sex
 ```
-Had
+Yes
 ```
 C# (Unity)
 JavaScript + TypeScript
