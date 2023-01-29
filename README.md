@@ -8,6 +8,10 @@ Igor Bistritsky | Игорь Быстрицкий
 ```
 19
 ```
+## Sex
+```
+experienced
+```
 ## Country
 ```
 Russia
