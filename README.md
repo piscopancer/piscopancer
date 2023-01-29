@@ -10,13 +10,7 @@ Igor Bistritsky | Игорь Быстрицкий
 ```
 ## Sex
 ```
-experienced
-```
-## Country
-```
-Russia
-```
-## Languages
+Had
 ```
 C# (Unity)
 JavaScript + TypeScript
