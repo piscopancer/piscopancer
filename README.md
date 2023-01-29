@@ -12,6 +12,8 @@ Igor Bistritsky | Игорь Быстрицкий
 ```
 1 time a year
 ```
+## Languages
+```
 C# (Unity)
 JavaScript + TypeScript
 ```
