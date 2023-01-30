@@ -1,5 +1,4 @@
-# React TS developer
-junior
+# React TS developer | `Junior`
 ![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
 ```
@@ -11,7 +10,7 @@ Igor Bistritsky | Игорь Быстрицкий
 ```
 ## Sex
 ```
-1 time a year
+Not often
 ```
 ## Languages
 ```
