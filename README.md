@@ -1,4 +1,4 @@
-# React developer
+# React TS developer
 ![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
 ```
