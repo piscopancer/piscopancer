@@ -2,7 +2,7 @@
 ![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
 ```
-Igor Bistritsky | Игорь Быстрицкий
+Игорь Быстрицкий | Igor Bistritsky 
 ```
 ## Age
 ```
@@ -14,14 +14,15 @@ Not often
 ```
 ## Languages
 ```
-C# (Unity)
-JavaScript + TypeScript
+▶ JavaScript + TypeScript
+▶ C# (Unity)
 ```
 ## Technology stack
 ```
-react
-redux-toolkit
-framer-motion
+▶ react
+▶ redux-toolkit
+▶ framer-motion
+▶ sass / scss
 ```
 
 ## If you need me for any reason
