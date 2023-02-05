@@ -1,3 +1,5 @@
+> *Хочу крутую работу чтобы там ну на кайфе кнопки нажимать и ничего не делать*
+
 # React TS developer | `Junior`
 ![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
