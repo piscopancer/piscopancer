@@ -24,7 +24,7 @@ Not often
 ▶ react
 ▶ redux-toolkit
 ▶ framer-motion
-▶ sass / scss
+▶ scss, tailwind-css, windi-css
 ```
 
 ## If you need me for any reason
