@@ -21,10 +21,11 @@ Not often
 ```
 ## Technology stack
 ```
-▶ react
+▶ react, react-query (learning)
 ▶ redux-toolkit
 ▶ framer-motion
 ▶ scss, tailwind-css, windi-css
+▶ electron (learning)
 ```
 
 ## If you need me for any reason
