@@ -17,15 +17,16 @@ Not often
 ## Languages
 ```
 ▶ JavaScript + TypeScript
+▶ JavaScript + TypeScript
 ▶ C# (Unity)
 ```
 ## Technology stack
 ```
-▶ react, react-query (learning)
+▶ react, react-query
 ▶ redux-toolkit
 ▶ framer-motion
 ▶ scss, tailwind-css, windi-css
-▶ electron (learning)
+▶ nest-js, postgresql
 ```
 
 ## If you need me for any reason
