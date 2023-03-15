@@ -1,4 +1,4 @@
-> *Хочу крутую работу чтобы там ну на кайфе кнопки нажимать и ничего не делать*
+> 😎
 
 # React TS developer | `Junior`
 ![mads](/clifford-unger-mads-mikkelsen.gif)
@@ -17,7 +17,7 @@ Not often
 ## Languages
 ```
 ▶ JavaScript + TypeScript
-▶ JavaScript + TypeScript
+▶ SQL
 ▶ C# (Unity)
 ```
 ## Technology stack
@@ -26,10 +26,10 @@ Not often
 ▶ redux-toolkit
 ▶ framer-motion
 ▶ scss, tailwind-css, windi-css
-▶ nest-js, postgresql
+▶ nest-js, sequel, postgresql
 ```
 
-## If you need me for any reason
+## Text me something funny or important here
 | Discord | Gmail | VK |
 | - | - | - |
 | hotdogson#3193 | igor.bistr01092003@gmail.com | https://vk.com/piscopancer |
