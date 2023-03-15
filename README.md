@@ -1,6 +1,4 @@
-> 😎
-
-# React TS developer | `Junior`
+# React TS developer | `Junior` 😎
 ![mads](/clifford-unger-mads-mikkelsen.gif)
 ## Full name
 ```
