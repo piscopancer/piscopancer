@@ -1,34 +1,17 @@
-# React TS developer | `Junior` 😎
-![mads](/clifford-unger-mads-mikkelsen.gif)
+### Фронтенд разработчик (Frontend developer)
 
-## Full name
-```
-Игорь Быстрицкий | Igor Bistritsky 
-```
-## Age
-```
-19
-```
-## Sex
-```
-Not often
-```
-## Languages
-```
-▶ JavaScript + TypeScript
-▶ SQL
-▶ C# (Unity)
-```
-## Technology stack
-```
-▶ react, react-query
-▶ redux-toolkit
-▶ framer-motion
-▶ scss, tailwind-css, windi-css
-▶ nest-js, sequel, postgresql
+#### Быстрицкий Игорь (Bistritski Igor)
+
+```diff
++ Next
++ TypeScript
++ Tailwind
++ Framer Motion
++ Sanity
++ Firestore
++ Valtio
 ```
 
-## Text me something funny or important here
-| Discord | Gmail | VK |
-| - | - | - |
-| hotdogson#3193 | igor.bistr01092003@gmail.com | https://vk.com/piscopancer |
+Связь (Contact)
+
+[Gmail](mailto:igor.bistr01092003@gmail.com) • [Telegram](https://t.me/piscopancer) • [Whatsapp](https://wa.me/89284379219) • [Discord](https://discordapp.com/users/piscopancer) • [Vk](https://vk.com/piscopancer)
