@@ -2,6 +2,9 @@
 
 #### Быстрицкий Игорь (Bistritski Igor)
 
+> **Note**  
+> Посетите мой [персональный сайт (Personal website)](https://piscodev.vercel.app/).
+
 #### 🧊 Next
 > Удобная отладка и понятная структура проекта на любом этапе разработки. Такое активное комьюнити и частые обновления.
 > Easy debug and manageable project structure at any stage of development. Supportive community and frequent updates too. 
@@ -23,9 +26,6 @@
 #### 🧊 Valtio
 > Редакс, только удобный.
 > Redux for those who care.
-
-> **Note**  
-> Посетите мой [персональный сайт (Personal website)](https://piscodev.vercel.app/).
 
 #### Связь (Contact)
 
