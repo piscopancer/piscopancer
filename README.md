@@ -11,7 +11,7 @@
 + Firestore
 + Valtio
 ```
-> **Info**  
+> **Note**  
 > Посетите мой [персональный сайт (Personal website)](https://piscodev.vercel.app/).
 
 #### Связь (Contact)
