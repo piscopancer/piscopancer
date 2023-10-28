@@ -11,7 +11,7 @@
 + Firestore
 + Valtio
 ```
-> **Note**  
+> **Посетите мой сайт**  
 > The Windows installer modifies your PATH. When using Windows Terminal, you will need to **open a new window** for the changes to take effect. (Simply opening a new tab will _not_ be sufficient.)
 
 Связь (Contact)
