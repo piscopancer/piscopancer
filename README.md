@@ -2,15 +2,14 @@
 
 #### Быстрицкий Игорь (Bistritski Igor)
 
-```diff
-+ Next
-+ TypeScript
-+ Tailwind
-+ Framer Motion
-+ Sanity
-+ Firestore
-+ Valtio
-```
+🧊 Next 
+🧊 TypeScript
+🧊 Tailwind
+🧊 Framer Motion
+🧊 Sanity
+🧊 Firestore
+🧊 Valtio
+
 > **Note**  
 > Посетите мой [персональный сайт (Personal website)](https://piscodev.vercel.app/).
 
