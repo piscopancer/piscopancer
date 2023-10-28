@@ -13,7 +13,7 @@
 > I like writing styles fast, compact and do not clutter up the project with annoying css files.
 #### 🧊 Framer Motion
 > Реактивные декларативные анимации в jsx.
-> Reactive and declarating animations in jsx.
+> Reactive and declarative animations in jsx.
 #### 🧊 Sanity
 > Классная современная админка.
 > A smart and modern-looking dashboard.
