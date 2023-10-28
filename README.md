@@ -16,7 +16,7 @@
 > Reactive and declarative animations in jsx.
 #### 🧊 Sanity
 > Классная современная админка.
-> A smart and modern-looking dashboard.
+> A smart and modern-looking admin dashboard.
 #### 🧊 Firestore
 > БД.
 > The database.
