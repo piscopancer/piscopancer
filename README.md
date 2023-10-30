@@ -1,7 +1,7 @@
 ### Фронтенд разработчик (Frontend developer)
 
 #### Быстрицкий Игорь (Bistritski Igor)
-
+https://docs.google.com/presentation/d/12LhnlcQiMAekHvxat89G1jvacQRmfAHWi000dJU--rI/edit?usp=drivesdk
 > **Note**  
 > Посетите мой [персональный сайт (Personal website)](https://piscodev.vercel.app/).
 
