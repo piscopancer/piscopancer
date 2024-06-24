@@ -1,10 +1,10 @@
-Фронтенд разработчик (Frontend developer)
+Веб разработчик (Web developer)
 
 Быстрицкий Игорь (Bystrytski Igor)
 
 https://piscodev.ru
 
-Next, TypeScript, Tailwind, Framer Motion, Sanity, Firestore, Valtio
+Next, TypeScript, Postgresql, Prisma, React Query, Tailwind, Framer Motion, Sanity
 
 Связь (Contact)
 
