@@ -1,8 +1,8 @@
 Веб разработчик (Web developer)
 
-Быстрицкий Игорь (Bystrytski Igor)
+Быстрицкий Игорь (Bistritski Igor)
 
-https://piscodev.ru
+https://piscodev.vercel.app
 
 Next, TypeScript, Postgresql, Prisma, React Query, Tailwind, Framer Motion, Sanity
 
