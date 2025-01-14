@@ -1,6 +1,6 @@
 Веб разработчик (Web developer)
 
-Быстрицкий Игорь (Bistritski Igor)
+Игорь Быстрицкий (Igor Bistritski)
 
 https://piscodev.vercel.app
 
