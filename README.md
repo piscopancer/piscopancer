@@ -1,11 +1,34 @@
-Веб разработчик (Web developer)
+Web developer
 
-Игорь Быстрицкий (Igor Bistritski)
+## My stack (I use jav*script btw)
 
-https://piscodev.vercel.app
+![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-Next, TypeScript, Postgresql, Prisma, React Query, Tailwind, Framer Motion, Sanity
+## My conveniently leaked personal information
 
-Связь (Contact)
+\~ Игорь Быстрицкий (Igor Bistritski)
 
-[Gmail](mailto:igor.bistr01092003@gmail.com) • [Telegram](https://t.me/piscopancer) • [Discord](https://discordapp.com/users/piscopancer)
+\~ 21
+
+\~ [🌐](https://piscodev.vercel.app)
+
+## Always online...
+
+<a href="https://t.me/piscopancer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://discordapp.com/users/piscopancer">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:igor.bistr01092003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
