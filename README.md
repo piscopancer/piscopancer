@@ -17,17 +17,17 @@ Web developer
 
 \~ 21
 
-\~ [🌐](https://piscodev.vercel.app)
+\~ <a target="_blank" href="https://piscodev.vercel.app">🌐</a>
 
 ## Always online...
 
-<a href="https://t.me/piscopancer">
+<a target="_blank" href="https://t.me/piscopancer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://discordapp.com/users/piscopancer">
+<a target="_blank" href="https://discordapp.com/users/piscopancer">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="mailto:igor.bistr01092003@gmail.com">
+<a target="_blank" href="mailto:igor.bistr01092003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
