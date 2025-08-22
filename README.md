@@ -1,6 +1,6 @@
-Web developer
+A web enthusiast
 
-## My stack (I use jav*script btw)
+## My stack is JavaScript-related
 
 ![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,13 +11,13 @@ Web developer
 ![](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## My conveniently leaked personal information
+## Bio
 
 \~ Игорь Быстрицкий (Igor Bistritski)
 
 \~ 21
 
-\~ <a target="_blank" href="https://piscodev.vercel.app">🌐</a>
+\~ <a target="_blank" href="https://piscodev.vercel.app">Portfolio</a>
 
 ## Always online...
 
