@@ -13,13 +13,14 @@ A web enthusiast
 
 ## Bio
 
-\~ Игорь Быстрицкий (Igor Bistritski)
+Игорь Быстрицкий (Igor Bistritski), 21  
 
-\~ 21
+Chinese: intermediate  
+English: fluent  
 
-\~ <a target="_blank" href="https://piscodev.vercel.app">Portfolio</a>
+<a target="_blank" href="https://piscodev.vercel.app">Portfolio</a>
 
-## Always online...
+## Connect
 
 <a target="_blank" href="https://t.me/piscopancer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
