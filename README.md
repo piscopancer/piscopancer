@@ -32,4 +32,8 @@ English: fluent
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+https://docs.google.com/presentation/d/1sMMQLw90-X5IFBTl71eICChjqs5MOd2Nq-Cdo2YMW4g/edit?usp=drivesdk
+
+https://docs.google.com/presentation/d/1J7aGPlXuvDWW0Py2efgMN81DGcvVkY3shT9Hvkf8zf4/edit?usp=drivesdk
+
 
