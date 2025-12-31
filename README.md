@@ -11,6 +11,8 @@ A web enthusiast
 ![](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
+
 ## Bio
 
 Игорь Быстрицкий (Igor Bistritski), 21  
