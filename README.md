@@ -17,7 +17,6 @@ Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
 
 Игорь Быстрицкий (Igor Bistritski), 22  
 
-Chinese: intermediate  
 English: fluent  
 
 <a target="_blank" href="https://piscodev.vercel.app">Portfolio</a>
