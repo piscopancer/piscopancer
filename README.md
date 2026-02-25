@@ -15,7 +15,7 @@ Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
 
 ## Bio
 
-Игорь Быстрицкий (Igor Bistritski), 21  
+Игорь Быстрицкий (Igor Bistritski), 22  
 
 Chinese: intermediate  
 English: fluent  
