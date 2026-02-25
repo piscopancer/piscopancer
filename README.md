@@ -1,7 +1,5 @@
 A web enthusiast
 
-## My stack is JavaScript-related
-
 ![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -11,9 +9,8 @@ A web enthusiast
 ![](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
 
-## Bio
+## Me
 
 Игорь Быстрицкий (Igor Bistritski), 22  
 
@@ -21,7 +18,7 @@ English: fluent
 
 <a target="_blank" href="https://piscodev.vercel.app">Portfolio</a>
 
-## Connect
+Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
 
 <a target="_blank" href="https://t.me/piscopancer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
