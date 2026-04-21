@@ -10,7 +10,7 @@ A web enthusiast
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
-## Me
+## Обо мне (me)
 
 Игорь Быстрицкий (Igor Bistritski), 22  
 
@@ -32,6 +32,6 @@ Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
 
 
 
-https://docs.google.com/presentation/d/1wfA1TWlaZrsvGyR2P50q8HfmpstwBd25VC6WPwFO3KE/edit?usp=sharing
+[https://docs.google.com/presentation/d/1wfA1TWlaZrsvGyR2P50q8HfmpstwBd25VC6WPwFO3KE/edit?usp=sharing](https://drive.google.com/file/d/1_gLV_V3QDhaEOtd7Dpt5hrypY9qyZ8QA/view?usp=sharing)
 
 
