@@ -30,8 +30,6 @@ Also check out my stuff on [Modrinth](https://modrinth.com/user/piscopancer)
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
-
-[https://docs.google.com/presentation/d/1wfA1TWlaZrsvGyR2P50q8HfmpstwBd25VC6WPwFO3KE/edit?usp=sharing](https://drive.google.com/file/d/1_gLV_V3QDhaEOtd7Dpt5hrypY9qyZ8QA/view?usp=sharing)
+https://drive.google.com/file/d/1_gLV_V3QDhaEOtd7Dpt5hrypY9qyZ8QA/view?usp=sharing
 
 
