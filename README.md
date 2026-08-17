@@ -1,5 +1,3 @@
-https://drive.google.com/file/d/1Ax1_vn_VUdgy-IbbEEhuRt5ctOrnVCFp/view?usp=sharing
-
 A web developer
 
 ![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
